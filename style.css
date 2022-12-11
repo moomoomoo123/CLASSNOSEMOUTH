@@ -1,0 +1,18 @@
+body{
+    background-image:url("pandayay2.jpg");
+    background-repeat:no-repeat;
+    background-position: center;
+}
+
+canvas{
+    border-style:dashed;
+    margin-right: 410px;
+}
+
+button{
+    margin-right: 410px;
+}
+
+h3{
+    margin-right: 410px;
+}
